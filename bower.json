@@ -1,0 +1,14 @@
+{
+    "name": "Teucer",
+    "version": "0.0.1",
+    "homepage": "https://github.com/AntJanus/teucer",
+    "authors": [
+        "Antonin Januska <antonin@antjanus.com>"
+    ],
+    "description": "An AJAXifying utility turning regular websites into JS powered modern apps",
+    "main": "lib/teucer.js",
+    "keywords": [
+        "ajax"
+    ],
+    "private": false
+}
